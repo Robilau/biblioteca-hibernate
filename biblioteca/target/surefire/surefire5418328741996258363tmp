@@ -1,0 +1,12 @@
+#surefire
+#Thu Jul 05 00:58:05 BRT 2018
+jpda.address=53662
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar;C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+file.encoding=UTF-8
+jpda.listen=true
+forkMode=once
+user.dir=C\:\\Users\\T0KS1CK\\Documents\\NetBeansProjects\\biblioteca
+localRepository=C\:\\Users\\T0KS1CK\\.m2\\repository
+test=Infra.EnderecoDAO_IT
+basedir=C\:\\Users\\T0KS1CK\\Documents\\NetBeansProjects\\biblioteca
+maven.surefire.debug=-Xdebug -Xrunjdwp\:transport\=dt_socket,server\=n,address\=53662
